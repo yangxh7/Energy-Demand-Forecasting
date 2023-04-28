@@ -4,7 +4,7 @@
 The python code presents an analysis of the relationship between weather information and daily energy usage/energy pricing in Melbourne, Australia. The code aims to provide insights into the factors that influence energy usage and pricing, inform readers around energy demand and its impacts from weather conditions.
 
 ##  Disclaimer
-This code was submitted as a course assignment for DATA0006 - Data Analytics with Python at The University of Melbourne (April 2023), 
+This code was submitted as a course assignment for DATA0006 - Data Analytics with Python at the University of Melbourne (April 2023), 
 and is revised and published as a portfolio item of the author. 
 Please kindly do not misuse this work for any other purposes.
 ## Datasets
